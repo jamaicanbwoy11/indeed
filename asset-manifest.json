@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jamaicanbwoy11.github.io/indeed/static/css/main.3e315282.chunk.css",
+    "main.js": "/jamaicanbwoy11.github.io/indeed/static/js/main.25586d41.chunk.js",
+    "main.js.map": "/jamaicanbwoy11.github.io/indeed/static/js/main.25586d41.chunk.js.map",
+    "runtime-main.js": "/jamaicanbwoy11.github.io/indeed/static/js/runtime-main.33f9659f.js",
+    "runtime-main.js.map": "/jamaicanbwoy11.github.io/indeed/static/js/runtime-main.33f9659f.js.map",
+    "static/css/2.a2032d84.chunk.css": "/jamaicanbwoy11.github.io/indeed/static/css/2.a2032d84.chunk.css",
+    "static/js/2.6bc6ff37.chunk.js": "/jamaicanbwoy11.github.io/indeed/static/js/2.6bc6ff37.chunk.js",
+    "static/js/2.6bc6ff37.chunk.js.map": "/jamaicanbwoy11.github.io/indeed/static/js/2.6bc6ff37.chunk.js.map",
+    "static/js/3.fa8858fd.chunk.js": "/jamaicanbwoy11.github.io/indeed/static/js/3.fa8858fd.chunk.js",
+    "static/js/3.fa8858fd.chunk.js.map": "/jamaicanbwoy11.github.io/indeed/static/js/3.fa8858fd.chunk.js.map",
+    "index.html": "/jamaicanbwoy11.github.io/indeed/index.html",
+    "static/css/2.a2032d84.chunk.css.map": "/jamaicanbwoy11.github.io/indeed/static/css/2.a2032d84.chunk.css.map",
+    "static/css/main.3e315282.chunk.css.map": "/jamaicanbwoy11.github.io/indeed/static/css/main.3e315282.chunk.css.map",
+    "static/js/2.6bc6ff37.chunk.js.LICENSE.txt": "/jamaicanbwoy11.github.io/indeed/static/js/2.6bc6ff37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33f9659f.js",
+    "static/css/2.a2032d84.chunk.css",
+    "static/js/2.6bc6ff37.chunk.js",
+    "static/css/main.3e315282.chunk.css",
+    "static/js/main.25586d41.chunk.js"
+  ]
+}
