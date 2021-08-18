@@ -225,7 +225,7 @@ export function CompanyReviews() {
             </Grid>
             <Grid container spacing = {1} style = {{fontSize : "14px", backgroundColor: "white", padding: "15px 10px", margin : "0 -20px "}} >
                 <Grid item style = {{cursor: "pointer"}}>
-                © 2020 Indeed
+                © 2021 Indeed
                 </Grid>
                 <Grid item>
                     -

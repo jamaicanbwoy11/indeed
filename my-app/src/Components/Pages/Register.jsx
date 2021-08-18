@@ -149,31 +149,12 @@ export function Register() {
             </Box>
             <Box className = {classes.boxForm}>
                 <Grid container spacing = {3} >
-                    <Grid item>
-                        <Typography className = {classes.h5} variant = "h5">Create an Account (it's free)</Typography>
-                    </Grid>
-                    <Grid container item spacing = {3}>
-                        <Grid item >
-                            <HelperButton style = {{border: "2px solid #a6a6a6"}} className = {classes.button} variant = "outlined">
-                                Sign in with Google
-                            </HelperButton>
-                        </Grid>
-                        <Grid item >
-                            <HelperButton style = {{border: "2px solid black"}} className = {classes.button} variant = "outlined">
-                                Sign in with Apple
-                            </HelperButton>
-                        </Grid>
-                        <Grid item >
-                            <HelperButton style = {{border: "2px solid #1877f2", color: "#1877f2"}} className = {classes.button} variant = "outlined">
-                                Sign in with Facebook
-                            </HelperButton>
-                        </Grid>
-                    </Grid>
+                    
                     <Grid style = {{margin: "10px 0"}} container item>
                         <Grid item>
                             <hr className = {classes.divider} ></hr>
                         </Grid>
-                        <Grid style = {{lineHeight : "0px"}} item> or</Grid>
+                        <Grid style = {{lineHeight : "0px"}} item> </Grid>
                         <Grid>
                             <hr className = {classes.divider} ></hr>
                         </Grid>
@@ -221,7 +202,7 @@ export function Register() {
             </Grid>
             <Grid container spacing = {1} style = {{fontSize : "14px", backgroundColor: "white", padding: "15px 10px", margin : "0 -20px "}} >
                 <Grid item style = {{cursor: "pointer"}}>
-                © 2020 Indeed
+                © 2021 Indeed
                 </Grid>
                 <Grid item>
                     -

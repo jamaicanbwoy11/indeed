@@ -179,21 +179,7 @@ export function Login() {
                         </Grid>
                     </Grid>
                     <Grid container item spacing = {3}>
-                        <Grid item >
-                            <HelperButton style = {{border: "2px solid #a6a6a6"}} className = {classes.button} variant = "outlined">
-                                Sign in with Google
-                            </HelperButton>
-                        </Grid>
-                        <Grid item >
-                            <HelperButton style = {{border: "2px solid black"}} className = {classes.button} variant = "outlined">
-                                Sign in with Apple
-                            </HelperButton>
-                        </Grid>
-                        <Grid item >
-                            <HelperButton style = {{border: "2px solid #1877f2", color: "#1877f2"}} className = {classes.button} variant = "outlined">
-                                Sign in with Facebook
-                            </HelperButton>
-                        </Grid>
+                        
                         <Grid item>
                             <Typography style = {{cursor: "pointer", color : "#085ff7", margin:"0 115px"}} variant = "subtitle2" component={Link} to="/register">
                                 New to Indeed? Create an account
@@ -232,7 +218,7 @@ export function Login() {
             </Grid>
             <Grid container spacing = {1} style = {{fontSize : "14px", backgroundColor: "white", padding: "15px 10px", margin : "0 -20px "}} >
                 <Grid item style = {{cursor: "pointer"}}>
-                © 2020 Indeed
+                © 2021 Indeed
                 </Grid>
                 <Grid item>
                     -
